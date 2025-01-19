@@ -1,0 +1,98 @@
+{
+    "pokemon1": [
+        {
+            "id":"458",
+            "nom":"Charmander",
+            "tipus":"Foc",
+            "pes":"8,5 KG",
+            "altura":"0,6 m",
+            "estadistiques": [
+                {
+                    "velocitat":"3",
+                    "fortalesa":"5",
+                    "precisio":"4",
+                    "resistencia":"3",
+                    "salt":"3",
+                    "total":"18",
+                    "mitja":"3,6"
+                }
+            ],
+            "moviments":[
+                {
+                    "moviment1":[
+                        {
+                            "nom":"Grunyit",
+                            "descripcio":"Grunyit és un moviment de so que baixa un nivell l'atac de l'objectiu. En combats dobles i triples afecta els oponents adjacents. No afecta Pokémon amb les habilitats tall fort, cos pur, fum blanc, guàrdia metàl·lica o insonoritzar.",
+                            "potencia":"--",
+                            "contacte":"No"
+                        }
+                    ],
+                    "moviment2": [
+                        {
+                            "nom":"Pantalla de fum",
+                            "descripcio":"Pantalla de fum redueix a un nivell la precisió de l'objectiu.",
+                            "potencia":"--",
+                            "contacte":"No"
+                        }
+                    ]
+                }
+            ],
+            "imatge":"Charmander.png",
+            "evolucions":[
+                {
+                    "evolucions":"Charmeleon, Charizard",
+                    "nivell evolucio":"16, 36",
+                    "metode d'evolucio":"nivell"
+                }
+            ]
+        }
+    ],
+    "pokemon2": [
+        {
+            "id":"103",
+            "nom":"Magikarp",
+            "tipus":"Aigua",
+            "pes":"10,0 kg",
+            "altura":"0,9 m",
+            "estadistiques": [
+                {
+                    "velocitat":"5",
+                    "fortalesa":"4",
+                    "precisio":"3",
+                    "resistencia":"5",
+                    "salt":"4",
+                    "total":"21",
+                    "mitja":"4.2"
+                }
+            ],
+            "moviments":[
+                {
+                    "moviment1":[
+                        {
+                            "nom":"Placatge",
+                            "descripcio":"Des de primera a quarta generació Placatge causa mal i no té cap efecte secundari. Aquest moviment té una potència de 35% i una precisió del 95%.",
+                            "potencia":"40",
+                            "contacte":"Sí"
+                        }
+                    ],
+                    "moviment2":[
+                        {
+                            "nom":"Flagell",
+                            "descripcio":"Flagell --> causa mal i no té cap efecte secundari. La seva potència varia, augmentant com menys PS tingui el Pokémon.",
+                            "potencia":"--",
+                            "contacte":"No"
+                        }
+                    ]
+                }
+            ],
+            "imatge":"300px-Magikarp.png",
+            "evolucions":[
+                {
+                    "evolucions":"Gyadados",
+                    "nivell evolucio":"nivell 20",
+                    "metode d'evolucio":"nivell"
+                }
+            ]
+        }
+    ]
+}
