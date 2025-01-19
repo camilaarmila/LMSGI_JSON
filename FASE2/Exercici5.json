@@ -37,7 +37,7 @@
                     ]
                 }
             ],
-            "imatge":"Charmander.png",
+            "imatge":"charmander.png",
             "evolucions":[
                 {
                     "evolucions":"Charmeleon, Charizard",
@@ -85,7 +85,7 @@
                     ]
                 }
             ],
-            "imatge":"300px-Magikarp.png",
+            "imatge":"magikarp.png",
             "evolucions":[
                 {
                     "evolucions":"Gyadados",
